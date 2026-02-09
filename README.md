@@ -9,6 +9,6 @@ How to Run:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hestiaahmadi/Personal-Page.git
+   git clone https://github.com/zahraahmadi05/Personal-Page.git
 
 This project is licensed under the MIT License
